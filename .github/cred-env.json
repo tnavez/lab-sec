@@ -1,0 +1,6 @@
+{
+  "name": "gh-env-production",
+  "issuer": "https://token.actions.githubusercontent.com",
+  "subject": "4ab5a6b6-8b85-4ff2-857e-c3c95d5a3b49:environment:production",
+  "audiences": ["api://AzureADTokenExchange"]
+}
